@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds004078	12	n/a	n/a	n/a	768	24	24	345803678373	607557516	450265206	261938.87208366394	341.06623969227076	621305856	808992.0	anat,dwi,func,meg
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds004078	12	n/a	n/a	n/a	768	24	24	345803678373	607557516	450265206	261938.87208366394	341.06623969227076	621305856	808992.0	RDR,rest	368928	{"0.71":768}	anat,dwi,func,meg
